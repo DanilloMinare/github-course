@@ -1,4 +1,4 @@
-Modificando arquivo para o curso de GIT
+Curso de GIT
 Esse é um arquivo de exemplo
-está gostando do curso??
-by Danillo Minaré
+
+by Danillo Minaré]
